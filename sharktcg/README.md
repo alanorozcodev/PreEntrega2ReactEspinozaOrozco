@@ -1,6 +1,6 @@
 #Creacion del README.md
--Se crea el entorno de desarrollo para poder crear la pagina de ecommerce
--Se creo la navbar dentro del src en una carapeta llamada components
+- Se crea el entorno de desarrollo para poder crear la pagina de ecommerce
+- Se creo la navbar dentro del src en una carapeta llamada components
 
 #Navbar
 - Dentro de esta se creo la carpeta de assets y dentro de la misma la de logo para agregar el logo de la tienda con un tamaño adecuado
