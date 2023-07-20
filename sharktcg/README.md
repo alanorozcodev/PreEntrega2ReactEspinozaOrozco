@@ -19,3 +19,9 @@
 #Estilo
 - Se instalo reactbootstrap a la pagina para darle algo de estilo
 - En el componen de NavBar se agregaron la clase de Button con un estilo sencillo para poder ver algo un poco mas estilizado
+
+#Contador
+-Se agrega el contador de boton
+
+#Catalogo con maps
+-Se agregan los cambios necesarios
